@@ -1,0 +1,14 @@
+--- !!org.boothub.context.SourceContext
+artifact: {{appModule.artifact}}
+fileContexts:
+    - !!org.boothub.context.SourceFileContext
+      fileName: GroovyMain.groovy
+      targetBaseDir: src/main/groovy
+      targetPackage: {{appModule.basePackage}}
+      targetFileClass: {{appModule.artifactAsClassName}}Main
+
+    - !!org.boothub.context.SourceFileContext
+      fileName: GroovySpec.groovy
+      targetBaseDir: src/test/groovy
+      targetPackage: {{appModule.basePackage}}
+      targetFileClass: {{appModule.artifactAsClassName}}Spec
