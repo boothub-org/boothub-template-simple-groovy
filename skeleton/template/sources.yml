@@ -5,7 +5,7 @@ fileContexts:
       fileName: GroovyMain.groovy
       targetBaseDir: src/main/groovy
       targetPackage: {{appModule.basePackage}}
-      targetFileClass: {{appModule.artifactAsClassName}}Main
+      targetFileClass: {{appMainClass}}
 
     - !!org.boothub.context.SourceFileContext
       fileName: GroovySpec.groovy
