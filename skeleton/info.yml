@@ -3,12 +3,12 @@ name: Simple Groovy
 caption: A Gradle-based Groovy project with a main class and a Spock test class.
 version:
   major: 0
-  minor: 1
-  patch: 2
+  minor: 2
+  patch: 0
 
 minimumRequiredBootHub:
   major: 0
-  minor: 1
+  minor: 2
   patch: 0
 
 homepage: http://simple-groovy.boothub.org
