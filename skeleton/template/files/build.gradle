@@ -44,7 +44,7 @@ license {
 }
 
 dependencies {
-  compile "org.codehaus.groovy:groovy-all:2.4.11"
+  compile "org.codehaus.groovy:groovy-all:2.4.12"
   compile group: 'org.slf4j', name: 'slf4j-api', version: '1.7.21'
   runtime ('ch.qos.logback:logback-classic:1.1.7')
 
