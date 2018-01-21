@@ -1,5 +1,5 @@
-= boothub-template-simple-groovy
-:author: 
+= The Simple-Groovy BootHub Template
+:author: Serban Iordache
 :revnumber: {project-version}
 :toc: left
 :toclevels: 3
