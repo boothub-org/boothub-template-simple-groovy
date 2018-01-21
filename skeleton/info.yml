@@ -4,7 +4,7 @@ caption: A Gradle-based Groovy project with a main class and a Spock test class.
 version:
   major: 0
   minor: 3
-  patch: 2
+  patch: 3
 
 minimumRequiredBootHub:
   major: 0
