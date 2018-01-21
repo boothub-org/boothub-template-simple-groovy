@@ -12,7 +12,7 @@ appModule: !!org.boothub.context.StandardModuleContext
 appMainClass: WeirdAppMain
 
 developers:
-  - id: *maintainerId
+  - id: ob1
     name: Lux Kye Walker
     # email: force@war.mil
   - id: jefrigerator
