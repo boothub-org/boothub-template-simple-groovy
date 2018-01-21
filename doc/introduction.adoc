@@ -10,4 +10,4 @@ image::license.png[role="thumb" link="{blob-root}/LICENSE"]
 
 The Simple-Groovy BootHub template allows you to create a Groovy project with a main class and a Spock test class.
 
-It provides a Gradle build file that adds support for versioning and for checking license headers.
+It provides a Gradle build file that adds support for versioning, checking license headers, jar signing and publishing to JCenter and Maven Central.
