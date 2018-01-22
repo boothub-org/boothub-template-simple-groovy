@@ -22,7 +22,7 @@ Hello from MyApp!
 == IntelliJ Idea
 
 - start the IntelliJ Idea IDE
-- if your project uses Groovy or Spock: make sure that the Groovy plugin is enabled
+- make sure that the Groovy plugin is enabled
 - open _build.gradle_
 
 
@@ -30,7 +30,7 @@ Hello from MyApp!
 == Eclipse
 
 - start the Eclipse IDE
-- if your project uses Groovy or Spock: install the https://github.com/groovy/groovy-eclipse/wiki#releases[Groovy plugin]
+- install the https://github.com/groovy/groovy-eclipse/wiki#releases[Groovy plugin]
 - install a recent version of https://projects.eclipse.org/projects/tools.buildship[Buildship]
 - import the project using the Gradle Project wizard
 
@@ -56,7 +56,7 @@ myProjectReleaseBuild = false
 == License header check
 
 The Gradle build script uses the https://github.com/hierynomus/license-gradle-plugin[license-gradle-plugin]
-to ensure that your source files include the header provided in the `license-header.txt` file.
+to check if your source files include the header provided in the `license-header.txt` file.
 
 == Publishing to JCenter and Maven Central
 
