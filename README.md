@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/boothub-org/boothub-template-simple-groovy/master.svg?label=Build)](https://travis-ci.org/boothub-org/boothub-template-simple-groovy)
 ## Simple-Groovy template ##
 
-A [BootHub](https://boothub.org) template that lets you generate Groovy projects with a main class and a Spock test class.
+A [BootHub](https://boothub.org) template that lets you generate Groovy project skeletons containing a main class and a Spock test class.
 
 Provides a Gradle build file that adds support for versioning, checking license headers, jar signing and publishing to JCenter and Maven Central.
 
