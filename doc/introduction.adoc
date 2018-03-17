@@ -1,12 +1,7 @@
 [[introduction]]
 = Introduction
 
-NOTE: The source code is available on https://github.com/boothub-org/boothub-template-simple-groovy[GitHub].
-
-The Simple-Groovy template is licensed under the Apache-2.0 license.
-Click on the icon below to read the license file:
-
-image::license.png[role="thumb" link="{blob-root}/LICENSE"]
+NOTE: The source code is available on https://github.com/boothub-org/boothub-template-simple-groovy[GitHub] and is licensed under the {blob-root}/LICENSE[Apache-2.0 license].
 
 The Simple-Groovy BootHub template allows you to create a Groovy project with a main class and a Spock test class.
 
