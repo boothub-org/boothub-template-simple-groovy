@@ -11,5 +11,5 @@ Make sure to read the [documentation](http://simple-groovy.boothub.org) before u
 
 ### Quick start
 
-You can generate a project skeleton based on the Simple-Groovy template by using the [BootHub GUI](https://boothub.org/app#/home/true/https%3A%2F%2Fgithub.com%2Fboothub-org%2Fboothub-template-simple-groovy%2Freleases%2Fdownload%2Fv1.0.0%2Fsimple-groovy-1.0.0.zip)
+You can generate a project skeleton based on the Simple-Groovy template by using the [BootHub GUI](https://boothub.org/goto/org.boothub.simple-groovy)
 or the [BootHub CLI](https://boothub.org/app#/cli).
